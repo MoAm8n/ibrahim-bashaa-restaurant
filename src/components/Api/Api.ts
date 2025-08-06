@@ -1,1 +1,1 @@
-export const BASE_URL = 'https://ibrahimbashaa.ibrahimbashaa.com'
+export const BASE_URL = 'http://mediumpurple-hyena-317496.hostingersite.com'
